@@ -1,7 +1,10 @@
-# freshbooks-cli-task 
-[![Build Status](https://secure.travis-ci.org/logankoester/freshbooks-cli-task.png?branch=master)](http://travis-ci.org/logankoester/freshbooks-cli-task)
-
+# FreshBooks: CLI Task 
 > A command-line interface for interacting with Freshbooks Tasks
+
+[![Build Status](https://secure.travis-ci.org/logankoester/freshbooks-cli-task.png?branch=master)](http://travis-ci.org/logankoester/freshbooks-cli-task)
+[![status](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/status.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![Gittip](http://img.shields.io/gittip/logankoester.png)](https://www.gittip.com/logankoester/)
+
 
 ## Overview
 
@@ -54,3 +57,10 @@ Copyright (c) 2013 Logan Koester
 Licensed under the MIT license.
 
 
+[![xrefs](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/xrefs.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![funcs](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/funcs.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![top func](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/top-func.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![library users](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/library-users.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![authors](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/authors.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![Total views](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/counters/views.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+[![Views in the last 24 hours](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/counters/views-24h.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
