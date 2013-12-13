@@ -1,7 +1,7 @@
 # FreshBooks: CLI Task 
 > A command-line interface for interacting with Freshbooks Tasks
 
-[![Build Status](https://secure.travis-ci.org/logankoester/freshbooks-cli-task.png?branch=master)](http://travis-ci.org/logankoester/freshbooks-cli-task)
+[![Build Status](http://ci.ldk.io/logankoester/freshboooks-cli-task/)](http://ci.ldk.io/logankoester/freshboooks-cli-task/badge)
 [![status](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/status.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
 [![Gittip](http://img.shields.io/gittip/logankoester.png)](https://www.gittip.com/logankoester/)
 
