@@ -64,3 +64,7 @@ Licensed under the MIT license.
 [![authors](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/badges/authors.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
 [![Total views](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/counters/views.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
 [![Views in the last 24 hours](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-task/counters/views-24h.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-task)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/logankoester/freshboooks-cli-task/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
